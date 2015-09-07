@@ -37,3 +37,7 @@ for ( var i = 0; i < volunteerIndex; i++ ) {
 console.log(volunteerName);
 console.log(volunteerPhone);
 console.log(volunteerAddress);
+
+
+alert("Victims in need: " + victimIndex + "\n" + "Victims Names: " + victimsName);
+
